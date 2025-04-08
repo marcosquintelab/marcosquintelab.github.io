@@ -13,5 +13,8 @@ collections:
   publications:
     output: true
 
+include:
+  - _includes
+
 plugins:
   - jekyll-feed
