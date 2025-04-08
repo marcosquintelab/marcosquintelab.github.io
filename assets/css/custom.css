@@ -1,0 +1,30 @@
+
+/* Custom Purple Theme */
+body {
+  background-color: #f9f6ff;
+  color: #222;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+a {
+  color: #6a1b9a;
+}
+
+a:hover {
+  color: #9c27b0;
+}
+
+header, footer {
+  background-color: #6a1b9a;
+  color: white;
+}
+
+.site-title {
+  font-weight: bold;
+  color: white;
+}
+
+.site-nav a {
+  color: white !important;
+  margin-left: 15px;
+}
