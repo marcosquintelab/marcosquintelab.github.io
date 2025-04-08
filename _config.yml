@@ -15,6 +15,7 @@ collections:
 
 include:
   - _includes
+  - _layouts
 
 plugins:
   - jekyll-feed
