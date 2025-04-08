@@ -1,0 +1,17 @@
+title: "Microbial Ecology and Evolutionary Genomics Lab"
+description: "MEEG Lab at Durham University"
+baseurl: "" # Leave empty for GitHub Pages at user.github.io
+url: "https://marcosquintelab.github.io"
+theme: minima
+markdown: kramdown
+
+collections:
+  people:
+    output: true
+  news:
+    output: true
+  publications:
+    output: true
+
+plugins:
+  - jekyll-feed
