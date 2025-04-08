@@ -39,7 +39,7 @@ body {
 }
 
 header {
-  background-color: #ccb5da;
+  background-color: #6a1b9a;
   color: white;
   padding: 1.2rem 0;
 }
@@ -86,4 +86,9 @@ footer {
   padding: 1rem 0;
   text-align: center;
   color: #444;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #f3e5f5;
 }
